@@ -91,7 +91,7 @@ let stockProductos = [
   },
   {
     id: 10,
-    nombre: "Codera Ho-Soccer Strange blanca",
+    nombre: "Codera Ho-Soccer Strange negra",
     tipo: "coderas",
     desc: "Codera con manga y espuma de alta densidad que ofrece una excelente absorción de impactos. La zona de protección se ha cubierto con un material muy resistente a la abrasión. Molde adaptado anatómicamente para una perfecta fijación. Incluye un par.",
     color: "negro",
